@@ -8,4 +8,5 @@
 - Есть защита от Тенге.
 
 ![SCREENSHOT](https://github.com/KlareoN/Simple_Payment/blob/main/Screenshot_1.png)
+
 ![SCREENSHOT](https://github.com/KlareoN/Simple_Payment/blob/main/Screenshot_2.png)
