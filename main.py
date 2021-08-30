@@ -20,7 +20,7 @@ def start_message(message):
 	other_func.url_pay[message.from_user.id] = []
 	other_func.qiwi_transfer[message.from_user.id] = []
 
-	amount = config.price # цена
+	amount = config.price # сумма
 	temp_code = random.randint(1000000, 9999999)
 
 	# temp_code,|,amount
